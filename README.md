@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/171415197?v=4" alt="i-100-user Avatar" width="340" style="border-radius:90%; border:8px solid; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
  
 
-¡Hola! Soy un apasionado de la **ciberseguridad** con experiencia en varios sistemas operativos y lenguajes de programación.
+**¡Hola! Soy un apasionado de la **ciberseguridad** con experiencia en varios sistemas operativos y lenguajes de programación.**
 
 
 
@@ -41,6 +41,6 @@
 
 ---
 
-¡Estoy emocionado por colaborar en proyectos interesantes y desafiantes en el ámbito de la ciberseguridad! No dudes en contactarme.
+**¡Estoy emocionado por colaborar en proyectos interesantes y desafiantes en el ámbito de la ciberseguridad! No dudes en contactarme.**
 
 ![Visitas al Perfil](https://komarev.com/ghpvc/?username=i-100-user&color=brightgreen)
