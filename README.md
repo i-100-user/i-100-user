@@ -29,10 +29,7 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=i-100-user&show_icons=true&theme=radical)
 
-## 🚀 Proyectos Destacados
 
-- [![Server__py](https://img.shields.io/badge/Server__py-323330?style=for-the-badge&logo=python&logoColor=white)](https://github.com/i-100-user/Server__py): **Proyecto Flask para Subida de Archivos**
-- [![Traductor_de_terminal](https://img.shields.io/badge/Traductor__de__terminal-323330?style=for-the-badge&logo=python&logoColor=white)](https://github.com/i-100-user/Traductor_de_terminal): **Traductor de Texto para la Terminal**
 
 ## 📫 Cómo Contactarme
 
