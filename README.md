@@ -1,3 +1,6 @@
+![gif](img/OIP.gif)
+
+
 # 🌟 i-100-user 🌟
 
 <!-- Avatar con borde redondeado y sombra -->
